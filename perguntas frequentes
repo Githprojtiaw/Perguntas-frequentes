@@ -1,0 +1,35 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Como criar uma conta no Facebook?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "https://www.bing.com/ck/a?!&&p=ab9e354eed7a2159b01082f0a7c9d150880ce81260b4f452f5c21daaada4c568JmltdHM9MTY1NTQzMzI2MiZpZ3VpZD02YjFjZTZkNi02NzllLTRmOTAtYjcxZi05ZTIyYmNiMGZhZjgmaW5zaWQ9NTM4Mw&ptn=3&fclid=fe96c398-ede5-11ec-a9ba-a1607e4d2b48&u=a1aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2hlbHAvY3JlYXRlYWNjb3VudA&ntb=1"
+    }
+  },{
+    "@type": "Question",
+    "name": "Como criar uma conta no Instagram?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "https://www.bing.com/ck/a?!&&p=1fdc0597450fe7b47ad8954fc3d9547d1c8b0b103efe3ef609bcc5f1e5f20753JmltdHM9MTY1NTQzMzMwNiZpZ3VpZD1iZjNjMzU0Ny1iNDc2LTQwZTYtODMxYy1mZjJiOGIzNzI3NGQmaW5zaWQ9NTM3MA&ptn=3&fclid=192ccaea-ede6-11ec-b4dd-b982cf8ab29e&u=a1aHR0cHM6Ly90ZWNobmV3c2JyYXNpbC5jb20uYnIvY29tby1jcmlhci1jb250YS1uby1pbnN0YWdyYW0tcGFzc28tYS1wYXNzby1kby1jYWRhc3Ryby8jOn46dGV4dD1Db21vJTIwY3JpYXIlMjB1bWElMjBjb250YSUyMG5vJTIwSW5zdGFncmFtJTIwMSUyMEFjZXNzZSxjcmlhJUMzJUE3JUMzJUEzbyUyMGRhJTIwY29udGElMkMlMjBzZXIlQzMlQTElMjBwb3NzJUMzJUFEdmVsJTIwYWNlc3NhciUyMGElMjBjb250YS4&ntb=1"
+    }
+  },{
+    "@type": "Question",
+    "name": "Como postar uma foto ou vídeo no Instagram?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "https://www.bing.com/ck/a?!&&p=12e0de12635181bb9513dfcf6486df890dd692b65b40656324fdd7aab771cc89JmltdHM9MTY1NTQzMzM0MSZpZ3VpZD0wMTIwNTI0Ny0xYjBlLTQ0YTItOWIzZS0zYzhkYTlmNDdkNDkmaW5zaWQ9NTQwOA&ptn=3&fclid=2e0c6fea-ede6-11ec-b4ee-39fe0514a092&u=a1aHR0cDovL2VudHJlbGluaGFzZWZ1eGljb3MuY29tLmJyL3NpdGUvY29tby1wb3N0YXItZm90b3MtZS12aWRlb3Mtbm8taW5zdGFncmFtLyM6fjp0ZXh0PVBhcmElMjBwb3N0YXIlMjB1bWElMjBmb3RvJTIwbm8lMjBJbnN0YWdyYW0lMjBDb21lY2UlMjBjbGljYW5kbyxBcyUyMG9wJUMzJUE3JUMzJUI1ZXMlMjBlc3QlQzMlQTNvJTIwbmElMjBwYXJ0ZSUyMGluZmVyaW9yJTIwZGElMjB0ZWxhLg&ntb=1"
+    }
+  },{
+    "@type": "Question",
+    "name": "Como postar uma foto ou vídeo no Facebook?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "https://www.bing.com/ck/a?!&&p=bab07f2c92ed06b53a1a740a077e45ba2adbd6b25f9fbb5471cef74aec930042JmltdHM9MTY1NTQzMzM2NyZpZ3VpZD1hYzBmODAxMy1jMWUxLTRmNDAtOTI0NC0yZmYxN2Q4ZTA1NTQmaW5zaWQ9NTM1OQ&ptn=3&fclid=3d627ba5-ede6-11ec-b649-31d81cbc2773&u=a1aHR0cHM6Ly9wdC1ici5mYWNlYm9vay5jb20vYnVzaW5lc3MvbGVhcm4vbGVzc29ucy9wb3N0LWltYWdlcy1hbmQtdmlkZW9zIzp-OnRleHQ9SCVDMyVBMSUyMHVtYSUyMGJhcnJhJTIwZGUlMjBhdGFsaG9zJTIwJUMzJUEwJTIwZXNxdWVyZGElMjBvdSxvdSUyMHYlQzMlQURkZW8uJTIwQ2xpY2FuZG8lMjBuZWxhJTJDJTIwdm9jJUMzJUFBJTIwdmVyJUMzJUExJTIwbWFpcyUyMG9wJUMzJUE3JUMzJUI1ZXMu&ntb=1"
+    }
+  }]
+}
+</script>
